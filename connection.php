@@ -1,3 +1,3 @@
 <?php 
-    $db = mysqli_connect('localhost', 'root', '', 'maxidb') or die("Error");
+    $db = mysqli_connect('localhost', 'root', '', 'usersdb') or die("Error");
 ?>
