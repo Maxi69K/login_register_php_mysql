@@ -1,5 +1,7 @@
 # login & register create with php & mysql
 
+### I use XAMPP and localhost for server
+
 ## Create database
 CREATE DATABASE usersdb;
 
